@@ -1,1 +1,1 @@
-My practice git
+My practice git with exercises from hacker rank
